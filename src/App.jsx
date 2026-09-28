@@ -3,6 +3,8 @@ import Greeting from './components/Greeting'
 import Counter from './components/Counter'
 import StudentsViewer from './components/StudentsViewer'
 import LiftingStateDemo from './components/LiftingStateDemo'
+import Books from './components/Books/Books'
+import ControlledBooks from './components/Books/ControlledBooks'
 
 function App() {
   const students = [
@@ -23,6 +25,7 @@ function App() {
     <StudentsViewer students={students}/> */}
     {/* <LiftingStateDemo/> */}
     {/* <Counter/> */}
+    <ControlledBooks/>
     </>
   )
 }

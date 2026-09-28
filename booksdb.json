@@ -1,1 +1,128 @@
-{"books":[{"id":101,"title":"nesciunt in sapiente","author":"Carlo Runolfsson","rating":4.5,"year_published":1887},{"id":102,"title":"aut vero velit vero perferendis","author":"Annetta Dach","rating":2.35,"year_published":1851},{"id":103,"title":"voluptatum quia delectus","author":"Jayce Olson","rating":3.95,"year_published":1919},{"id":104,"title":"voluptatum quia nostrum nesciunt similique","author":"Mac Shields","rating":1.35,"year_published":1913},{"id":105,"title":"autem id labore est exercitationem quisquam","author":"Dusty Yost","rating":4.25,"year_published":1890},{"id":106,"title":"aut mollitia illo error consectetur","author":"Tia Emmerich","rating":3.55,"year_published":1831},{"id":107,"title":"atque sint sunt","author":"Bobby Friesen","rating":1.35,"year_published":1915},{"id":108,"title":"quaerat voluptates","author":"Estell Kohler","rating":4.15,"year_published":1915},{"id":109,"title":"quod","author":"Adolphus Smitham","rating":0.9,"year_published":1924},{"id":110,"title":"quo non quae","author":"Chyna Hirthe","rating":0.75,"year_published":1818},{"id":111,"title":"optio molestias esse qui maiores consequuntur","author":"Estell Kiehn","rating":0.65,"year_published":1900},{"id":112,"title":"excepturi aliquam consequatur consequatur expedita","author":"Abigayle Kovacek","rating":2.85,"year_published":1864},{"id":113,"title":"rerum dolor est autem consectetur possimus","author":"Berneice Kozey","rating":0.2,"year_published":1781},{"id":114,"title":"sit","author":"Courtney Windler","rating":0.5,"year_published":1784},{"id":115,"title":"vel temporibus cupiditate aut quia","author":"Percival Connelly","rating":2.65,"year_published":1712}]}
+{
+  "books": [
+    {
+      "id": "101",
+      "title": "nesciunt in sapiente",
+      "author": "Carlo Runolfsson",
+      "rating": 4.5,
+      "year_published": 1887
+    },
+    {
+      "id": "102",
+      "title": "aut vero velit vero perferendis",
+      "author": "Annetta Dach",
+      "rating": 2.35,
+      "year_published": 1851
+    },
+    {
+      "id": "103",
+      "title": "voluptatum quia delectus",
+      "author": "Jayce Olson",
+      "rating": 3.95,
+      "year_published": 1919
+    },
+    {
+      "id": "104",
+      "title": "voluptatum quia nostrum nesciunt similique",
+      "author": "Mac Shields",
+      "rating": 1.35,
+      "year_published": 1913
+    },
+    {
+      "id": "105",
+      "title": "autem id labore est exercitationem quisquam",
+      "author": "Dusty Yost",
+      "rating": 4.25,
+      "year_published": 1890
+    },
+    {
+      "id": "106",
+      "title": "aut mollitia illo error consectetur",
+      "author": "Tia Emmerich",
+      "rating": 3.55,
+      "year_published": 1831
+    },
+    {
+      "id": "107",
+      "title": "atque sint sunt",
+      "author": "Bobby Friesen",
+      "rating": 1.35,
+      "year_published": 1915
+    },
+    {
+      "id": "108",
+      "title": "quaerat voluptates",
+      "author": "Estell Kohler",
+      "rating": 4.15,
+      "year_published": 1915
+    },
+    {
+      "id": "109",
+      "title": "quod",
+      "author": "Adolphus Smitham",
+      "rating": 0.9,
+      "year_published": 1924
+    },
+    {
+      "id": "110",
+      "title": "quo non quae",
+      "author": "Chyna Hirthe",
+      "rating": 0.75,
+      "year_published": 1818
+    },
+    {
+      "id": "111",
+      "title": "optio molestias esse qui maiores consequuntur",
+      "author": "Estell Kiehn",
+      "rating": 0.65,
+      "year_published": 1900
+    },
+    {
+      "id": "112",
+      "title": "excepturi aliquam consequatur consequatur expedita",
+      "author": "Abigayle Kovacek",
+      "rating": 2.85,
+      "year_published": 1864
+    },
+    {
+      "id": "113",
+      "title": "rerum dolor est autem consectetur possimus",
+      "author": "Berneice Kozey",
+      "rating": 0.2,
+      "year_published": 1781
+    },
+    {
+      "id": "114",
+      "title": "sit",
+      "author": "Courtney Windler",
+      "rating": 0.5,
+      "year_published": 1784
+    },
+    {
+      "id": "115",
+      "title": "vel temporibus cupiditate aut quia",
+      "author": "Percival Connelly",
+      "rating": 2.65,
+      "year_published": 1712
+    },
+    {
+      "title": "new title",
+      "author": "old author",
+      "rating": "4",
+      "id": "9IZjuUWlyjQ"
+    },
+    {
+      "title": "A",
+      "author": "A",
+      "rating": "2",
+      "id": "9JGgBHD6sjg"
+    },
+    {
+      "id": "RdmSao8T7lM",
+      "title": "B",
+      "author": "B",
+      "rating": "3"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
