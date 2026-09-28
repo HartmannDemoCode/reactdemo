@@ -21,7 +21,7 @@ function App() {
     <Greeting name="Holger"/>
     <Greeting name="Henriette"/>
     <StudentsViewer students={students}/> */}
-    <LiftingStateDemo/>
+    {/* <LiftingStateDemo/> */}
     {/* <Counter/> */}
     </>
   )
